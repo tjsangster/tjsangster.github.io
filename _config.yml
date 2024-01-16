@@ -1,0 +1,14 @@
+
+title: Tyler's Tech Blog
+author: Tyler Sangster
+description: >- # this means to ignore newlines until "baseurl:"
+  A personal blog to document my intermittent tinkering and personal development.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  tjsangster
+linkedin_username: tjsangster
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
