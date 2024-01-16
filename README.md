@@ -1,2 +1,2 @@
 # tjsangster.github.io
-Personal Blog
+My personal blog. 
